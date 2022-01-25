@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Enter your next birthday date(2023-03-17): "
-read $birthday_date
+read $"birthday_date"
 hour=$(( ($(date -d $birthday_date +%s) - $(date +%s)) / 3600 ))
 min=0
 sec=10
