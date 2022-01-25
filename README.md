@@ -1,2 +1,2 @@
 # birthdayTimer
-The timer which countdown the time to your birthday in hours
+The timer which counts down the time to your birthday in hours
